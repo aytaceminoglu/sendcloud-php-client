@@ -1,5 +1,5 @@
 {
-    "name": "picqer/sendcloud-php-client",
+    "name": "aytaceminoglu/sendcloud-php-client",
     "type": "library",
     "description": "A PHP Client for the SendCloud API",
     "keywords": [
@@ -10,12 +10,12 @@
         "shipments",
         "parcels"
     ],
-    "homepage": "http://github.com/picqer/sendcloud-php-client",
+    "homepage": "http://github.com/aytaceminoglu/sendcloud-php-client",
     "license": "MIT",
     "authors": [
         {
-            "name": "Stephan Groen",
-            "email": "info@picqer.com"
+            "name": "Aytac Eminoglu",
+            "email": "aytaceminoglu@gmail.com"
         }
     ],
     "require": {
