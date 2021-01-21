@@ -80,6 +80,7 @@ class Parcel extends Model
         'carrier',
         'tracking_url',
         'requestShipment', // Special one to create new shipments
+        'house_number',
     ];
 
     protected $url = 'parcels';
